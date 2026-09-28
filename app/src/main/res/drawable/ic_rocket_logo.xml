@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="40dp"
+    android:viewportWidth="96"
+    android:viewportHeight="40">
+    <!-- Rocket Icon -->
+    <path
+        android:fillColor="#8C3494"
+        android:pathData="M22,6C18,6 14,9 12,14L10,24L17,21L21,29L26,20L28,14C28,10 25,6 22,6Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M16,25L14,32L19,27Z" />
+    <!-- Text ROCKET -->
+    <path
+        android:fillColor="#8C3494"
+        android:pathData="M38,15h5c2.5,0 4,1 4,3c0,1.5 -1,2.5 -2.5,2.8L47,27h-2.5l-2.2,-5.5h-1.8v5.5h-2.5v-12zm2.5,4.5h2.5c1,0 1.8,-0.3 1.8,-1.2s-0.8,-1.2 -1.8,-1.2h-2.5v2.4z" />
+    <path
+        android:fillColor="#8C3494"
+        android:pathData="M50,21c0,-3.5 2.5,-6 6,-6s6,2.5 6,6s-2.5,6 -6,6s-6,-2.5 -6,-6zm9.5,0c0,-2.2 -1.5,-4 -3.5,-4s-3.5,1.8 -3.5,4s1.5,4 3.5,4s3.5,-1.8 3.5,-4z" />
+    <path
+        android:fillColor="#8C3494"
+        android:pathData="M65,21c0,-3.5 2.5,-6 6,-6c2.5,0 4.5,1.5 5.5,3.5l-2,1.2c-0.8,-1.5 -2,-2.2 -3.5,-2.2c-2.2,0 -3.5,1.8 -3.5,4s1.3,4 3.5,4c1.5,0 2.7,-0.7 3.5,-2.2l2,1.2c-1,2 -3,3.5 -5.5,3.5c-3.5,0 -6,-2.5 -6,-6z" />
+</vector>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="40dp"
+    android:viewportWidth="96"
+    android:viewportHeight="40">
+    <!-- Upay Blue Emblem -->
+    <path
+        android:fillColor="#0056B3"
+        android:pathData="M16,10C10.5,10 6,14.5 6,20s4.5,10 10,10c5.5,0 10,-4.5 10,-10S21.5,10 16,10z" />
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M16,14c-3.3,0 -6,2.7 -6,6s2.7,6 6,6s6,-2.7 6,-6S19.3,14 16,14z" />
+    <!-- Upay Text -->
+    <path
+        android:fillColor="#0056B3"
+        android:pathData="M38,15h2.5v7c0,2 1,3 2.5,3s2.5,-1 2.5,-3v-7h2.5v7c0,3.5 -2.2,5 -5,5s-5,-1.5 -5,-5v-7z" />
+    <path
+        android:fillColor="#0056B3"
+        android:pathData="M52,15h5.5c2.5,0 4,1.5 4,3.5s-1.5,3.5 -4,3.5h-3v5h-2.5v-12zm2.5,5h3c1,0 1.8,-0.5 1.8,-1.5s-0.8,-1.5 -1.8,-1.5h-3v3z" />
+    <path
+        android:fillColor="#0056B3"
+        android:pathData="M65,22l3.5,-7h2.8l-5,9.5v2.5h-2.5v-2.5l-5,-9.5h2.8z" />
+</vector>

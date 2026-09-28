@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="40dp"
+    android:viewportWidth="96"
+    android:viewportHeight="40">
+    <!-- bKash Bird Icon and Typography -->
+    <path
+        android:fillColor="#E2136E"
+        android:pathData="M16,6L30,17L22,23L27,33L11,27L17,21L7,19Z" />
+    <path
+        android:fillColor="#B30B53"
+        android:pathData="M22,23L27,33L18,29Z" />
+    <!-- bKash Text representation -->
+    <path
+        android:fillColor="#E2136E"
+        android:pathData="M40,24h3v-2c0,-1.5 1,-2.5 2.5,-2.5s2.5,1 2.5,2.5v2h3v-2.5c0,-3 -2.2,-4.5 -5,-4.5c-1.8,0 -3.3,0.7 -4.2,2v-7h-1.8v12z" />
+    <path
+        android:fillColor="#212121"
+        android:pathData="M54,12h2v5.5c1,-1 2.2,-1.5 3.5,-1.5c2.5,0 4.5,2 4.5,4.5v3.5h-2v-3.5c0,-1.5 -1,-2.5 -2.5,-2.5c-1.5,0 -2.5,1 -2.5,2.5v3.5h-3v-12z" />
+    <path
+        android:fillColor="#E2136E"
+        android:pathData="M68,16h2.5l3.5,4.5l-3.5,3.5h-2.5l3,-3.5z" />
+    <path
+        android:fillColor="#E2136E"
+        android:pathData="M78,16h2v8h-2z" />
+</vector>

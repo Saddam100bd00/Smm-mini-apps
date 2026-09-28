@@ -1,0 +1,6 @@
+{
+  "name": "AutoPay BD",
+  "description": "bKash, Nagad, Rocket & Upay automated payment gateway hub with SMS verification, checkout simulator, and website integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

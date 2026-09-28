@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+smm_store.db
+*.log

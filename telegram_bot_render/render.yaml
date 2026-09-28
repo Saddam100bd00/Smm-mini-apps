@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: at-smm-panel-backend
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python3 smm_server.py
+    plan: free
+    envVars:
+      - key: BOT_TOKEN
+        value: 8893514341:AAFIH0yATe_m28lTETkEu36GSmmoz4NkrsU
+      - key: ADMIN_ID
+        value: "8701368956"
+      - key: ADMIN_USERNAME
+        value: ItsSaddam9
+      - key: JAP_API_KEY
+        value: 58ad025b6b241ff6b5ba0aff5368bf42
+      - key: PAYMENT_NUMBER
+        value: "01985664862"
+      - key: PROOF_CHANNEL_LINK
+        value: https://t.me/+LFH-8mX0MJljYWU9
+      - key: WEBAPP_URL
+        sync: false
